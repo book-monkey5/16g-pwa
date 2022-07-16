@@ -1,0 +1,10 @@
+<nav>
+  <!-- ... -->
+  <!--BS--><button
+    (click)="requestSubscription()"
+    [class.green]="permission === 'granted'"
+    [class.red]="permission === 'denied'"
+    [disabled]="!permission"
+    aria-label="Notifications">!</button><!--BE-->
+</nav>
+<!-- ... -->

@@ -1,0 +1,19 @@
+<nav>
+  <a routerLink="/home" routerLinkActive="active">Home</a>
+  <a routerLink="/books" routerLinkActive="active">Books</a>
+  <a routerLink="/admin" routerLinkActive="active">Administration</a>
+  <button class="green"
+    (click)="auth.login()"
+    *ngIf="!auth.isAuthenticated">Login</button>
+  <button class="red"
+    (click)="auth.logout()"
+    *ngIf="auth.isAuthenticated">Logout</button>
+  <button
+    (click)="requestSubscription()"
+    [class.green]="permission === 'granted'"
+    [class.red]="permission === 'denied'"
+    [disabled]="!permission"
+    aria-label="Notifications">!</button>
+</nav>
+
+<router-outlet></router-outlet>
