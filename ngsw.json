@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1659389408176,
+  "timestamp": 1659416926840,
   "appData": {
     "version": "1.1.0",
     "changelog": "Updated Version"
@@ -81,7 +81,7 @@
     "/assets/icons/icon-72x72.png": "1abedeca06f9c0f1a400e9c797ec54be7f6422bc",
     "/assets/icons/icon-96x96.png": "dba4a537138979f51f1fa9b12222a0f9123d0c84",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "60145350f8c8f334c7f1a8d33196f6cbcc214e55",
+    "/index.html": "57f4fedd4ef38fd949b7acc46e31eccaa886de66",
     "/loader.ee3cf4c614872a86.svg": "514888a1dcb3e8c2e9cc1b2a4bf49d9f8ad799d4",
     "/main.b42e3fcc13ac8731.js": "c9a0e6693ac3adf55570f6decd62fd10c26dc730",
     "/manifest.webmanifest": "81cbb2f197bc6795fc447a896a9c452226c2bc5a",
