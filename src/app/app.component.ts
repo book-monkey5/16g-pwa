@@ -8,8 +8,6 @@ interface AppData {
   changelog: string;
 }
 
-const Notification = window.Notification || null;
-
 @Component({
   selector: 'bm-root',
   templateUrl: './app.component.html',
@@ -59,15 +57,21 @@ export class AppComponent {
       }
     });
 
-    this.permission = this.notificationService.isEnabled
-      ? Notification?.permission
-      : null;
+    if (this.notificationService.isEnabled) {
+      this.setPermission();
+    }
+  }
+
+  private setPermission() {
+    if ('Notification' in window) {
+      this.permission = Notification.permission;
+    }
   }
 
   requestSubscription() {
     this.notificationService.requestSubscription()
       .subscribe(() => {
-        this.permission = Notification?.permission;
+        this.setPermission();
       });
   }
 }
