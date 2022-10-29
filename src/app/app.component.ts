@@ -63,15 +63,14 @@ export class AppComponent {
   }
 
   private setPermission() {
-    if ('Notification' in window) {
+    if (typeof Notification !== undefined) {
+    // if ('Notification' in window) {
       this.permission = Notification.permission;
     }
   }
 
   requestSubscription() {
     this.notificationService.requestSubscription()
-      .subscribe(() => {
-        this.setPermission();
-      });
+      .subscribe(() => this.setPermission());
   }
 }
