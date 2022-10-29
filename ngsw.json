@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1666993196355,
+  "timestamp": 1667057162179,
   "appData": {
     "version": "1.1.0",
     "changelog": "Updated Version"
@@ -23,7 +23,7 @@
         "/manifest.webmanifest",
         "/polyfills.3c8d2f26bbab4028.js",
         "/runtime.d13f893cc4a07080.js",
-        "/styles.fa7a0c253302852d.css"
+        "/styles.bf512b126fdc0f8c.css"
       ],
       "patterns": []
     },
@@ -81,14 +81,14 @@
     "/assets/icons/icon-72x72.png": "1abedeca06f9c0f1a400e9c797ec54be7f6422bc",
     "/assets/icons/icon-96x96.png": "dba4a537138979f51f1fa9b12222a0f9123d0c84",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "1b6a77bade01c95c2d8cf737b68064459e93cfc4",
+    "/index.html": "7ae147a06dfd2944cded34957834d5e1b6b3e37f",
     "/loader.ee3cf4c614872a86.svg": "514888a1dcb3e8c2e9cc1b2a4bf49d9f8ad799d4",
     "/main.62c22713be240bfd.js": "db97367bbd6af24fa40f82090538495e7eeebf59",
     "/manifest.webmanifest": "81cbb2f197bc6795fc447a896a9c452226c2bc5a",
     "/polyfills.3c8d2f26bbab4028.js": "5a2f20339a49910b36d7d509b2f272d0c4e9f7a2",
     "/runtime.d13f893cc4a07080.js": "a20034be74182024e8734154a3613b686057a4d1",
     "/search.d0af5a2290579f05.svg": "7c5a8b9b91f2f9d5affd10a37ed01fa71486ba47",
-    "/styles.fa7a0c253302852d.css": "db58403329474dc1047e4b305536a3c3de84500e"
+    "/styles.bf512b126fdc0f8c.css": "83914f4a0ee36a9948476896dc461d22b53b3c0e"
   },
   "navigationUrls": [
     {
