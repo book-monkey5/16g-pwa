@@ -63,8 +63,7 @@ export class AppComponent {
   }
 
   private setPermission() {
-    if (typeof Notification !== undefined) {
-    // if ('Notification' in window) {
+    if ('Notification' in window) {
       this.permission = Notification.permission;
     }
   }
