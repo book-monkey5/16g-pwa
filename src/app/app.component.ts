@@ -58,14 +58,14 @@ export class AppComponent {
     });
 
     this.permission = this.notificationService.isEnabled
-      ? Notification.permission
+      ? Notification?.permission
       : null;
   }
 
   requestSubscription() {
     this.notificationService.requestSubscription()
       .subscribe(() => {
-        this.permission = Notification.permission;
+        this.permission = Notification?.permission;
       });
   }
 }
