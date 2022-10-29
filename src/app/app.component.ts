@@ -14,7 +14,7 @@ interface AppData {
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  permission: NotificationPermission | null = null;
+  permission: NotificationPermission | undefined;
 
   constructor(
     public auth: AuthService,
