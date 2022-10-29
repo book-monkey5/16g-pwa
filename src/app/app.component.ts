@@ -8,6 +8,8 @@ interface AppData {
   changelog: string;
 }
 
+const Notification = window.Notification || null;
+
 @Component({
   selector: 'bm-root',
   templateUrl: './app.component.html',
