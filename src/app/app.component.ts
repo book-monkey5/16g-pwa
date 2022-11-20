@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { SwUpdate } from '@angular/service-worker';
+
 import { AuthService } from './shared/auth.service';
 import { WebNotificationService } from './shared/web-notification.service';
 
