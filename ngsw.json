@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1671117228874,
+  "timestamp": 1671630585754,
   "appData": {
     "version": "1.1.0",
     "changelog": "Updated Version"
@@ -19,7 +19,7 @@
         "/868.7876d1e53d40b67e.js",
         "/favicon.ico",
         "/index.html",
-        "/main.74aa60689e06a308.js",
+        "/main.19e7bb688744b3d2.js",
         "/manifest.webmanifest",
         "/polyfills.dae920b7cb6734b7.js",
         "/runtime.73fcc9bf4cc5d5ab.js",
@@ -81,9 +81,9 @@
     "/assets/icons/icon-72x72.png": "fb5d91218d189e6e6fd9c8056d72de321b23c19b",
     "/assets/icons/icon-96x96.png": "e4401ba1a949d9dcdb513c31c1eb88fbd2c28610",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "e82e2bc2f4f0fd1690bb3146cdf635869a2e17db",
+    "/index.html": "78f138f760a32528ab6eb9cfca88fc3f7e7f41df",
     "/loader.ee3cf4c614872a86.svg": "514888a1dcb3e8c2e9cc1b2a4bf49d9f8ad799d4",
-    "/main.74aa60689e06a308.js": "e99acf553e2114fc7843136becf76cd1093bfbe6",
+    "/main.19e7bb688744b3d2.js": "55746e7213549ea839012d079bd98ecb2de651f9",
     "/manifest.webmanifest": "81cbb2f197bc6795fc447a896a9c452226c2bc5a",
     "/polyfills.dae920b7cb6734b7.js": "7ebbe09f9c71671dbc911eea21c1d10c25ac3e10",
     "/runtime.73fcc9bf4cc5d5ab.js": "d5b18c765cb6171f3d3cbac365fa86cb57df5eed",
