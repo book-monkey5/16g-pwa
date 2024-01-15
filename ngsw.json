@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1700679484515,
+  "timestamp": 1705320951591,
   "appData": {
     "version": "1.1.0",
     "changelog": "Updated Version"
@@ -15,14 +15,15 @@
         "ignoreVary": true
       },
       "urls": [
-        "/chunk-EMOBDIL4.js",
-        "/chunk-TEBW3JZC.js",
-        "/chunk-UPPMTJKU.js",
-        "/chunk-Z2RIHWVL.js",
+        "/chunk-DFP63A5L.js",
+        "/chunk-FQTBG2C4.js",
+        "/chunk-HJG5YDWE.js",
+        "/chunk-KIQA2W2F.js",
         "/favicon.ico",
-        "/main-G62JLZYB.js",
+        "/index.html",
+        "/main-J65S23IC.js",
         "/manifest.webmanifest",
-        "/polyfills-LZBJRJJE.js",
+        "/polyfills-RX4V3J3S.js",
         "/styles-ILYRG3NJ.css"
       ],
       "patterns": []
@@ -76,14 +77,15 @@
     "/assets/icons/icon-512x512.png": "25160856991d27e955b2458beb264e79185966e9",
     "/assets/icons/icon-72x72.png": "fb5d91218d189e6e6fd9c8056d72de321b23c19b",
     "/assets/icons/icon-96x96.png": "e4401ba1a949d9dcdb513c31c1eb88fbd2c28610",
-    "/chunk-EMOBDIL4.js": "57935ebfb6c458cfed4f301e7b36b1030fbe3226",
-    "/chunk-TEBW3JZC.js": "72b07626ef0584248f3fdbdc8c9c84dd86a9adad",
-    "/chunk-UPPMTJKU.js": "6cf508ed3369d520879bc48f53dc0096f40c3491",
-    "/chunk-Z2RIHWVL.js": "765b9bb7d2c54f7fe35d0e0ded9f44d4284bc7cb",
+    "/chunk-DFP63A5L.js": "d05746ff1f00760e9647c2129aa207aaa1bb0640",
+    "/chunk-FQTBG2C4.js": "fa7521d4491b0d7fbdb3a816676d8f285d59df4f",
+    "/chunk-HJG5YDWE.js": "3325f508ff35aa162df2780fa1ddc30f832df103",
+    "/chunk-KIQA2W2F.js": "7906a8b3e6aa32075c9ba9e2d4d7f6d531feb1e1",
     "/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "/main-G62JLZYB.js": "f1e335ce373654055c3d2fff750d2ae8b7939275",
+    "/index.html": "25499f43e7f6ff98ad118a970e15fb0b3e57f42a",
+    "/main-J65S23IC.js": "0cbc339b6880f770337865d53eed28ef6d644eb8",
     "/manifest.webmanifest": "81cbb2f197bc6795fc447a896a9c452226c2bc5a",
-    "/polyfills-LZBJRJJE.js": "fda1c82c5c620f1fa442f687b3df45a037f6fcc9",
+    "/polyfills-RX4V3J3S.js": "6b4c4ea33aa92bce0b91df442a680ed73e4303db",
     "/styles-ILYRG3NJ.css": "9fe732f2e050f090e63c4782d26214304e015cdd"
   },
   "navigationUrls": [
