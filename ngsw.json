@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1722428193925,
+  "timestamp": 1724827487715,
   "appData": {
     "version": "1.1.0",
     "changelog": "Updated Version"
@@ -15,13 +15,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/chunk-7XFUBETA.js",
-        "/chunk-OUM7I4SI.js",
-        "/chunk-UYFSIOAA.js",
-        "/chunk-UZOWJZPK.js",
+        "/chunk-75RAEIPC.js",
+        "/chunk-GROPWEZC.js",
+        "/chunk-I25RWIZD.js",
+        "/chunk-W2PSN42I.js",
         "/favicon.ico",
         "/index.html",
-        "/main-FMIN5GQI.js",
+        "/main-46TZFR3H.js",
         "/manifest.webmanifest",
         "/polyfills-SCHOHYNV.js",
         "/styles-NJBHQUZR.css"
@@ -58,13 +58,13 @@
     }
   ],
   "hashTable": {
-    "/chunk-7XFUBETA.js": "19bd984c41b2092407c242d83c9b8d0d45f117e5",
-    "/chunk-OUM7I4SI.js": "2d0f66002deaa8149b92ce5214a9b8b062efe90c",
-    "/chunk-UYFSIOAA.js": "0b3f2c3ae9d65f0a43d246e47f0873ed97bd66a7",
-    "/chunk-UZOWJZPK.js": "e50b8d2d1701eb5b29c1ac45b0bfbbf744999104",
+    "/chunk-75RAEIPC.js": "e633735a7e07edf9dac363b3e0cc164c2c27858a",
+    "/chunk-GROPWEZC.js": "954c85f9fec7cb5bcf11019a2ab1fd8d79f9f3b3",
+    "/chunk-I25RWIZD.js": "a142a74d0d8f1f6244394c1feb2e907502f39dcf",
+    "/chunk-W2PSN42I.js": "d80cdae06903c7ed2f865e11d8a098b218239f34",
     "/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "/index.html": "bd82636e7dc0a1450b644e613b3626f32473d44a",
-    "/main-FMIN5GQI.js": "22edc597513221c27b2ae6e306f32700deb0436b",
+    "/index.html": "d388ef49f9c84ebd3ae47bffb2be7ce6c1d69ee8",
+    "/main-46TZFR3H.js": "4c64fd063773c9ae7c360e011b9fc2848517e6f0",
     "/manifest.webmanifest": "9048499ea3aecef4c194bfb5f11d3fcf44b272ab",
     "/polyfills-SCHOHYNV.js": "d45c76c5960bab3ace7fd6d211b9579456241f8a",
     "/styles-NJBHQUZR.css": "1965cb9c6760d087d3723890d266699868b7b478"
